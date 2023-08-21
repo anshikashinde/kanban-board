@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://<anshikashinde>.github.io/<kanban-board>",
+  "homepage": "https://anshikashinde.github.io/kanban-board",
 
   "scripts": {
     "start": "react-scripts start",
